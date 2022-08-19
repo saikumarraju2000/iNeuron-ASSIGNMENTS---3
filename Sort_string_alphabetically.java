@@ -1,3 +1,4 @@
+//sorting string alphabetically
 package assignment3;
 
 import java.util.Arrays;
